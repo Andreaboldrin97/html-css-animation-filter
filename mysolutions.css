@@ -82,10 +82,9 @@
     }
 }
 /*esercizio 11*/
-.ex-11-icon{
+.ex-11-icon:hover{
     animation-name: gira2;
     animation-duration: 2s;
-    animation-iteration-count: infinite;
     animation-timing-function: linear;
     animation-direction: reverse;
     
@@ -103,3 +102,5 @@
     75%{
         transform:rotate(270deg);
     }
+}
+/*esercizio 11*/
