@@ -57,3 +57,12 @@
     filter: grayscale(100%) ;
     border-radius: 20%;
 }
+/*esercizio 9*/
+.ex-9-img{
+    transition: 4s;
+}
+.ex-9-img:hover{
+    filter: grayscale(100%) ;
+    border-radius: 20%;
+    transform: scale(0.5);
+}
