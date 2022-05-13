@@ -42,3 +42,10 @@
 .ex-6-img:hover{
     filter: grayscale(100%) ;
 }
+/*esercizio 1*/
+.ex-7-img{
+    transition: 4s;
+}
+.ex-7-img:hover{
+    filter: grayscale(100%) ;
+}
